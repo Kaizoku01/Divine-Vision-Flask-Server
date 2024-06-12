@@ -18,6 +18,7 @@ This project uses the following technologies and frameworks:
 
 - Python: Python is a high-level, dynamically typed programming language known for its simplicity and readability.
 - https: A package for creating api calls to establish a communication medium b/w backend and frontend.
+- [Divine Vision Mobile Application](https://github.com/Kaizoku01/Divine-Vision-Mobile-Application)
 
 ## Usage
 STEP 1 :
